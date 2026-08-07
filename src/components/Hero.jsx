@@ -167,7 +167,7 @@ export default function Hero() {
                     <Cpu className="w-5 h-5" />
                   </div>
                   <div>
-                    <div className="text-xs text-slate-500 dark:text-slate-400 font-medium">Core Stack</div>
+                    <div className="text-xs text-slate-600 dark:text-slate-600 font-medium">Core Stack</div>
                     <div className="text-base font-extrabold text-slate-900 dark:text-white">.NET & React</div>
                   </div>
                 </div>

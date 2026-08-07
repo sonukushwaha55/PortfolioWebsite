@@ -50,7 +50,6 @@ export default function About() {
     'Entity Framework Core',
     'RESTful API Design',
     'Microservices Architecture',
-    'Node.js & Express',
     'Database Optimization',
     'Redis Caching'
   ];
